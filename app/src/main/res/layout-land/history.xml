@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/historyRootLayout">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/history"
+        android:textSize="30sp" />
+
+    <ListView
+        android:id="@+id/historyView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="7"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center">
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:id="@+id/clearBtn"
+        android:text="@string/clear"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="5dp"/>
+    </LinearLayout>
+
+
+
+</LinearLayout>

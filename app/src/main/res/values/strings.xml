@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dicer</string>
+    <string name="makeDice">Opret terninger</string>
+    <string name="wrongInput">Tallet skal være mellem 1 og 6</string>
+    <string name="title_activity_shake_screen">ShakeScreenActivity</string>
+    <string name="settings">Indstillinger</string>
+    <string name="history">Historik</string>
+    <string name="back">Tilbage</string>
+    <string name="throwDice">Kast</string>
+    <string name="clear">Ryd</string>
+    <string name="shakeOrNot">Aktiver mobilryst</string>
+    <string name="changeBackgroundColor">Aktiver dark theme</string>
+    <string name="cancel">Annuller</string>
+    <string name="save">Gem</string>
+    <string name="numberOfDice">Antal terninger</string>
+    <string name="activateEnglish">Aktiver engelsk sprog</string>
+    <string name="hasBeenThrown">Terninger kastet</string>
+    <string name="nothingChanged">Intet er ændret</string>
+    <string name="changed">Ændringer gemt</string>
+    <string name="changesSoon">Ændringer vises efter tryk på Gem</string>
+    <string name="chanceOfSix">Indtast sandsynlighed for 6er</string>
+    <string name="wringChance">Tallet skal være mellem 0 og 100</string>
+</resources>

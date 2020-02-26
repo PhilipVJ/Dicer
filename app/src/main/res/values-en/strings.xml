@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dicer</string>
+    <string name="makeDice">Make dice</string>
+    <string name="wrongInput">The number must be between 1 and 6</string>
+    <string name="title_activity_shake_screen">ShakeScreenActivity</string>
+    <string name="settings">Settings</string>
+    <string name="history">History</string>
+    <string name="back">Back</string>
+    <string name="throwDice">Throw</string>
+    <string name="clear">Clear</string>
+    <string name="shakeOrNot">Activate shake-sensor</string>
+    <string name="changeBackgroundColor">Activate  dark theme</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="numberOfDice">Number of dice</string>
+    <string name="activateEnglish">Activate english</string>
+    <string name="hasBeenThrown">Dice thrown</string>
+    <string name="nothingChanged">Nothing has changed</string>
+    <string name="changed">Changes saved</string>
+    <string name="changesSoon">Changes are shown after pressing on Save</string>
+    <string name="chanceOfSix">Probability of a six</string>
+    <string name="wringChance">The number must be between 0 and 100</string>
+</resources>
